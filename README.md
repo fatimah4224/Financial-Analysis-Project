@@ -22,3 +22,5 @@ The project highlights spending patterns and budget deviations to support financ
 
 ## Notes
 The dataset is simulated and intended for analytical practice.
+
+<img width="1440" height="900" alt="‏لقطة الشاشة ١٤٤٧-٠٧-١٤ في ٩ ٢٨ ٠٠ م" src="https://github.com/user-attachments/assets/2bb0f080-dc49-465d-8ddb-6205373413aa" />
